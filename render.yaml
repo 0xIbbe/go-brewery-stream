@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: go-brewery-stream
+    env: go
+    plan: free
+    buildCommand: |
+      if [ ! -f go.mod ]; then
+        go mod init brewery-stream
+      fi
+      go mod tidy
+      go build -o brewery-stream .
+    startCommand: ./brewery-stream
